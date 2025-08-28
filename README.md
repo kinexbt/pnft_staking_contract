@@ -125,8 +125,8 @@ Reward per day should be token amount in decimal expected to receive everyday
 
 # 👤 Author
 
-### Twitter: [Vladmeer](https://x.com/vladmeer67)   
-https://x.com/vladmeer67
-### Telegram: [Vladmeer](https://t.me/vladmeer67)   
-https://t.me/vladmeer67
+### Twitter: [kinexbt](https://x.com/kienxbt)   
+https://x.com/kinexbt
+### Telegram: [kinexbt](https://t.me/kinexbt)   
+https://t.me/kinexbt
 
